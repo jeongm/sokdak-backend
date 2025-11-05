@@ -13,7 +13,7 @@
 ## 🗃 ERD 설계
 <img width="525" height="275" alt="Image" src="https://github.com/user-attachments/assets/7d655e41-df1a-4136-b39c-e7044d983963" />
 
-## 🔍 주요 기능
+## 🔍 담당 기능 개발
 1. 회원 관리
    - JWT 기반 인증
    - 일반 로그인
