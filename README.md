@@ -17,6 +17,7 @@
 <img width="525" height="275" alt="Image" src="https://github.com/user-attachments/assets/7d655e41-df1a-4136-b39c-e7044d983963" />
 
 ## 🔍 담당 기능 개발
+0. ERD 및 아키텍처 설계
 1. 회원 관리
    - JWT 기반 인증
    - 일반 로그인
